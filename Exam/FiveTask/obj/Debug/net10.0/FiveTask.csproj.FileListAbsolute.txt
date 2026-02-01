@@ -1,0 +1,15 @@
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\bin\Debug\net10.0\FiveTask.exe
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\bin\Debug\net10.0\FiveTask.deps.json
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\bin\Debug\net10.0\FiveTask.runtimeconfig.json
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\bin\Debug\net10.0\FiveTask.dll
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\bin\Debug\net10.0\FiveTask.pdb
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\obj\Debug\net10.0\FiveTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\obj\Debug\net10.0\FiveTask.AssemblyInfoInputs.cache
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\obj\Debug\net10.0\FiveTask.AssemblyInfo.cs
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\obj\Debug\net10.0\FiveTask.csproj.CoreCompileInputs.cache
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\obj\Debug\net10.0\FiveTask.sourcelink.json
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\obj\Debug\net10.0\FiveTask.dll
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\obj\Debug\net10.0\refint\FiveTask.dll
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\obj\Debug\net10.0\FiveTask.pdb
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\obj\Debug\net10.0\FiveTask.genruntimeconfig.cache
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\FiveTask\obj\Debug\net10.0\ref\FiveTask.dll

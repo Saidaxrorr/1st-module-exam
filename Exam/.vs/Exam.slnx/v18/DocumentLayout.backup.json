@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Full-Stack\\Backend\\FirstModule\\QAndA\\Exam\\",
+  "WorkspaceRootPath": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08857F6F-21BE-A86C-7F8D-ADCD334826C3}|Exam\\Exam.csproj|d:\\full-stack\\backend\\firstmodule\\qanda\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AD5E5C2-911D-4215-8E8C-FD5B45753877}|FiveTask\\FiveTask.csproj|d:\\full-stack\\backend\\pdp\\firstmodule\\1st-module-exam\\exam\\fivetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AD5E5C2-911D-4215-8E8C-FD5B45753877}|FiveTask\\FiveTask.csproj|solutionrelative:fivetask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FEC7E7-6F32-4E60-8ED9-C1C477501E6D}|FourthTask\\FourthTask.csproj|d:\\full-stack\\backend\\pdp\\firstmodule\\1st-module-exam\\exam\\fourthtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FEC7E7-6F32-4E60-8ED9-C1C477501E6D}|FourthTask\\FourthTask.csproj|solutionrelative:fourthtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C319C1B4-37D4-4D62-892B-00A3ECD0B5DF}|ThirdTask\\ThirdTask.csproj|d:\\full-stack\\backend\\pdp\\firstmodule\\1st-module-exam\\exam\\thirdtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C319C1B4-37D4-4D62-892B-00A3ECD0B5DF}|ThirdTask\\ThirdTask.csproj|solutionrelative:thirdtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08857F6F-21BE-A86C-7F8D-ADCD334826C3}|Exam\\Exam.csproj|d:\\full-stack\\backend\\pdp\\firstmodule\\1st-module-exam\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08857F6F-21BE-A86C-7F8D-ADCD334826C3}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE96E1D4-21FF-4AB2-A855-00C77740759B}|SecondTask\\SecondTask.csproj|d:\\full-stack\\backend\\pdp\\firstmodule\\1st-module-exam\\exam\\secondtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE96E1D4-21FF-4AB2-A855-00C77740759B}|SecondTask\\SecondTask.csproj|solutionrelative:secondtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBED4ED2-A039-483F-8D97-2651CD01EB45}|FirstTask\\FirstTask.csproj|d:\\full-stack\\backend\\pdp\\firstmodule\\1st-module-exam\\exam\\firsttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBED4ED2-A039-483F-8D97-2651CD01EB45}|FirstTask\\FirstTask.csproj|solutionrelative:firsttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,11 +52,76 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Full-Stack\\Backend\\FirstModule\\QAndA\\Exam\\Exam\\Program.cs",
+              "DocumentMoniker": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\FiveTask\\Program.cs",
+              "RelativeDocumentMoniker": "FiveTask\\Program.cs",
+              "ToolTip": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\FiveTask\\Program.cs*",
+              "RelativeToolTip": "FiveTask\\Program.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:45:53.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\FourthTask\\Program.cs",
+              "RelativeDocumentMoniker": "FourthTask\\Program.cs",
+              "ToolTip": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\FourthTask\\Program.cs",
+              "RelativeToolTip": "FourthTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:27:32.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\ThirdTask\\Program.cs",
+              "RelativeDocumentMoniker": "ThirdTask\\Program.cs",
+              "ToolTip": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\ThirdTask\\Program.cs",
+              "RelativeToolTip": "ThirdTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:50:38.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\SecondTask\\Program.cs",
+              "RelativeDocumentMoniker": "SecondTask\\Program.cs",
+              "ToolTip": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\SecondTask\\Program.cs",
+              "RelativeToolTip": "SecondTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T14:30:50.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\FirstTask\\Program.cs",
+              "RelativeDocumentMoniker": "FirstTask\\Program.cs",
+              "ToolTip": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\FirstTask\\Program.cs",
+              "RelativeToolTip": "FirstTask\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:43:35.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\Exam\\Program.cs",
               "RelativeDocumentMoniker": "Exam\\Program.cs",
-              "ToolTip": "D:\\Full-Stack\\Backend\\FirstModule\\QAndA\\Exam\\Exam\\Program.cs",
+              "ToolTip": "D:\\Full-Stack\\Backend\\PDP\\FirstModule\\1st-module-exam\\Exam\\Exam\\Program.cs",
               "RelativeToolTip": "Exam\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAAAGMBAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T07:02:32.24Z",
               "EditorCaption": ""

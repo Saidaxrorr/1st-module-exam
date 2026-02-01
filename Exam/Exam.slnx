@@ -1,3 +1,8 @@
 <Solution>
   <Project Path="Exam/Exam.csproj" />
+  <Project Path="FirstTask/FirstTask.csproj" Id="cbed4ed2-a039-483f-8d97-2651cd01eb45" />
+  <Project Path="FiveTask/FiveTask.csproj" Id="2ad5e5c2-911d-4215-8e8c-fd5b45753877" />
+  <Project Path="FourthTask/FourthTask.csproj" Id="a8fec7e7-6f32-4e60-8ed9-c1c477501e6d" />
+  <Project Path="SecondTask/SecondTask.csproj" Id="ce96e1d4-21ff-4ab2-a855-00c77740759b" />
+  <Project Path="ThirdTask/ThirdTask.csproj" Id="c319c1b4-37d4-4d62-892b-00a3ecd0b5df" />
 </Solution>

@@ -1,0 +1,15 @@
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\bin\Debug\net10.0\ThirdTask.exe
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\bin\Debug\net10.0\ThirdTask.deps.json
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\bin\Debug\net10.0\ThirdTask.runtimeconfig.json
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\bin\Debug\net10.0\ThirdTask.dll
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\bin\Debug\net10.0\ThirdTask.pdb
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\obj\Debug\net10.0\ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\obj\Debug\net10.0\ThirdTask.AssemblyInfoInputs.cache
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\obj\Debug\net10.0\ThirdTask.AssemblyInfo.cs
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\obj\Debug\net10.0\ThirdTask.csproj.CoreCompileInputs.cache
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\obj\Debug\net10.0\ThirdTask.sourcelink.json
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\obj\Debug\net10.0\ThirdTask.dll
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\obj\Debug\net10.0\refint\ThirdTask.dll
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\obj\Debug\net10.0\ThirdTask.pdb
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\obj\Debug\net10.0\ThirdTask.genruntimeconfig.cache
+D:\Full-Stack\Backend\PDP\FirstModule\1st-module-exam\Exam\ThirdTask\obj\Debug\net10.0\ref\ThirdTask.dll
